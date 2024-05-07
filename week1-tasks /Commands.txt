@@ -1,0 +1,23 @@
+The following file include the code for random password generator , here are the commands to use it
+
+Enter the length of the password:
+# enter the length for the required password 
+
+Include uppercase letters? (y/n): 
+# enter y if u want uppercase letter in the password
+# enter n if u don't want uppercase letter in the password
+
+Include lowercase letters? (y/n): 
+# enter y if u want lowercase letter in the password
+# enter n if u don't want lowercase letter in the password
+
+Include digits? (y/n): 
+# enter y if u want to add digits in the password
+# enter n if u don't want digits in the password
+
+Include special characters? (y/n): 
+# enter y if u want to add characters in the password
+# enter n if u don't want characters in the password
+
+Generated Password:
+Your password will be generated 
